@@ -23,9 +23,6 @@
 ![WhatsApp Image 2025-11-14 at 15 44 37_4953e3ac](https://github.com/user-attachments/assets/2adbb19e-e920-41a4-9f74-6a36d8c1da7b)
 
 
-# Sample images 
-![WhatsApp Image 2025-11-15 at 13 19 42_b808ede1](https://github.com/user-attachments/assets/00a2b088-3d2f-429c-a4d3-61aef755f3ef)
-
 
 # Result
 Thus different clamper circuits are studied and their output waveforms are plotted. 
